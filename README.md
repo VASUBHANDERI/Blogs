@@ -1,7 +1,7 @@
 # Blogs
 
 ## Functionality
-It is a CRUD app which Create, Read, Update and Delete the Blogs on the demand of the user.
+It is a CRUD app which create, read, update and delete the Blogs on the demand of the user.
 
 ## Implementation
 
